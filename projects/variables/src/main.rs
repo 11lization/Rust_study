@@ -59,5 +59,5 @@ fn main() {
     let first = a[0];
 
     //만약 index가 배열의 길이를 넘어서면 런타임 에러가 발생하는데, 다른 언어는 접근 후 예외를 던지지만 Rust에서는 접근 전에 프로그램을 종료한다.
-    //let element = a[6];
+    //let element = a[6]; 
 }
